@@ -1,0 +1,12 @@
+D:\visual studio\prodject\lab26\lab26\bin\Debug\lab26.exe.config
+D:\visual studio\prodject\lab26\lab26\bin\Debug\lab26.exe
+D:\visual studio\prodject\lab26\lab26\bin\Debug\lab26.pdb
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.Properties.Resources.resources
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.exe
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.pdb
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.csproj.ResolveComReference.cache
+D:\visual studio\prodject\lab26\lab26\obj\Debug\lab26.comment_txt.resources
